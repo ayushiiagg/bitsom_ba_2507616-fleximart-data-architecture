@@ -1,0 +1,7 @@
+customers_processed: 26
+customers_duplicates: 1
+customers_loaded: 0
+products_processed: 20
+products_loaded: 17
+sales_processed: 41
+sales_loaded: 35
