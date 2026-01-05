@@ -1,0 +1,20 @@
+studentID-fleximart-data-architecture/
+│
+├── README.md
+├── .gitignore
+├── data/
+│   ├── customers_raw.csv
+│   ├── products_raw.csv
+│   └── sales_raw.csv
+├── part1-database-etl/
+│   ├── etl_pipeline.py
+│   ├── schema_documentation.md
+│   ├── data_quality_report.txt
+├── part2-nosql/
+│   ├── nosql_analysis.md
+│   └── products_catalog.json
+└── part3-datawarehouse/
+    ├── star_schema_design.md
+    ├── warehouse_schema.sql
+    ├── warehouse_data.sql
+
